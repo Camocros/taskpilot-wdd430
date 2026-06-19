@@ -14,14 +14,6 @@ TaskPilot is a responsive project task manager built for the WDD 430 final proje
 - Export all task data as JSON
 - Responsive desktop and mobile design
 
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-Open `http://localhost:3000`.
 
 ## Deploy to Vercel
 
